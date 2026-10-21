@@ -1,1 +1,1 @@
-"Happy Sunday" 
+ is a cloud-based software development and version control platform. Owned by Microsoft, it hosts over 330 million code repositories for more than 100 million developers worldwide, offering tools for code storage, team collaboration, automated CI/CD workflows, and AI-assisted coding via GitHub Copilot. 
